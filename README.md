@@ -7,7 +7,7 @@ amplos conhecimentos em administração, logística, comércio exterior e desenv
 Busco desenvolver algoritmos que auxiliem na eficiência operacional, apoio à 
 tomada de decisões estratégicas em áreas administrativas, logística e de negócios internacionais.
 
-Conheça um pouco mais em meu curriculo: [Emerson](https://www.linkedin.com/in/emerson-emanuel-4a5647202/)
+Conheça um pouco mais em meu curriculo: [linkedin](https://www.linkedin.com/in/emerson-emanuel-4a5647202/)
 
 ### 💻 Linguagens e Tecnologias
 
