@@ -1,6 +1,6 @@
 # Emerson Asas
 
-** `Desenvolvedor FullStack` **
+**`Desenvolvedor FullStack`**
 
 Me chamo Emerson, estou me graduando em Relações Internacionais, tenho
 amplos conhecimentos em administração, logística, comércio exterior e desenvolvimento de software.
