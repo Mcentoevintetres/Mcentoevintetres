@@ -65,3 +65,11 @@ Conheça um pouco mais em meu curriculo: [linkedin](https://www.linkedin.com/in/
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
+### 📘 Este portfólio foi desenvolvido para demonstrar competências em:
+<ul>
+    <li>Logística</li>
+    <li>Comércio Exterior</li>
+    <li>Análise de dados</li>
+    <li>Automação de processos</li>
+    <li>Desenvolvimento de ferramentas operacionais</li>
+</ul>
